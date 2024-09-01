@@ -3,7 +3,7 @@
 Hanyang University  
 2024 Spring  
 <hr/>
-project01: getgpid()
+project01: getgpid()  
 
 project02: MLFQ, MoQ
 
