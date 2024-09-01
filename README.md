@@ -1,4 +1,6 @@
-# HYU-ELE3021
-## 한양대학교  
-### prof. 강수용  
-### 2024-1학기  
+# HYU-ELE3021 
+## ELE3021 - 운영체제  
+(Prof. Sooyong Kang)
+Hanyang University
+2024 Spring  
+
